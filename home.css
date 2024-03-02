@@ -165,3 +165,42 @@ ul li:hover ul.dropdown {
   border: 1px solid transparent;
   border-radius: 7px;
 }
+section1
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 80vh;
+  background: #1f242d;
+  color: white;
+}
+section1 h1
+{
+  font-size: 90px;
+ font-family:"Nunito Sans", sans-serif; 
+}
+section1 p
+{
+  font-size: 35px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  line-height: 45px;
+  text-align: center;
+  word-spacing: 1px;
+  letter-spacing: 1px;
+}
+section1 .bold
+{
+  font-weight: 600;
+  color: rgb(0, 255, 115);
+}
+section1 .real
+{
+  font-weight: 400;
+ color: rgb(0, 255, 234);
+}
+section1 .tech
+{
+  color: rgb(255, 77, 0);
+}
