@@ -165,7 +165,7 @@ ul li:hover ul.dropdown {
   border: 1px solid transparent;
   border-radius: 7px;
 }
-section1
+.sec-1
 {
   display: flex;
   justify-content: center;
@@ -175,32 +175,91 @@ section1
   background: #1f242d;
   color: white;
 }
-section1 h1
+.sec-1 h1
 {
   font-size: 90px;
  font-family:"Nunito Sans", sans-serif; 
+ margin-top: 50px;
+ margin-top: 15%;
 }
-section1 p
+.sec-1 p
 {
   font-size: 35px;
   font-family: "Poppins", sans-serif;
-  font-weight: 200;
-  line-height: 45px;
+  font-weight: 300;
+  line-height: 50px;
   text-align: center;
   word-spacing: 1px;
   letter-spacing: 1px;
+  margin-bottom: 70px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 15%;
 }
-section1 .bold
+.bold
 {
   font-weight: 600;
   color: rgb(0, 255, 115);
 }
-section1 .real
+.real
 {
   font-weight: 400;
  color: rgb(0, 255, 234);
 }
-section1 .tech
+.tech
 {
   color: rgb(255, 77, 0);
 }
+.sec-2
+{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:#242b39c4;
+}
+.sec-2 img
+{
+  width: 500px;
+  margin-bottom: 10%;
+  margin-top: 10%;
+  border: 1px solid transparent;
+  border-radius: 15px;
+  box-shadow: -2px -2px 20px 10px rgba(255, 68, 0, 0.605) , 2px 2px 20px 10px rgba(255, 68, 0, 0.702);
+  outline: none;
+}
+.sec-3
+{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+}
+.sec-3 p
+{
+  font-size: 40px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  line-height: 45px;
+  text-align: center;
+  word-spacing: 3px;
+  letter-spacing: 2px;
+  margin-bottom: 70px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 10%;
+  margin-top: 10%;
+}
+.sec-4
+{
+  background-color: #191f2e7e;
+}
+.sec-4 .images img
+{
+  width: 400px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 5%;
+}
+
